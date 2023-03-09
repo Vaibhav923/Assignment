@@ -1,3 +1,3 @@
 # Assignment
-#JavaScript
+JavaScript
 Assignment first coding practice
